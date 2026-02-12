@@ -69,12 +69,6 @@ BSD-3-Clause，见 `LICENSE`。
 
 本项目以“现状”提供，开发者不提供任何明示或暗示的保证。用户使用风险自担，需遵守当地法律法规，仅限合法用途。开发者对任何直接、间接、偶然或后果性损害概不负责。进行二次开发须承诺合法使用并自负法律责任。开发者保留随时修改软件功能及本声明的权利。最终解释权归开发者所有。
 
-## 📞 支持
-
-- 🐛 问题报告: https://github.com/NodePassProject/NodePassDash/issues
-- 💬 社区讨论: https://t.me/NodePassGroup
-- 📢 频道: https://t.me/NodePassChannel
-
 ## 🤝 Sponsors
 
 <table>
