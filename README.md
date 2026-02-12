@@ -75,12 +75,6 @@ BSD-3-Clause. See `LICENSE`.
 
 This project is provided “as is”, without any express or implied warranties. You are responsible for complying with local laws and regulations and using it only for lawful purposes. The authors are not liable for any direct, indirect, incidental, or consequential damages. The authors reserve the right to modify features and this statement at any time.
 
-## Support
-
-- Issues: https://github.com/NodePassProject/NodePassDash/issues
-- Telegram: https://t.me/NodePassGroup
-- Telegram Channel: https://t.me/NodePassChannel
-
 ## Sponsors
 
 <table>
